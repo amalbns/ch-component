@@ -4,7 +4,7 @@ const FullName = () => {
 return (
     <div>
 
-        <h1 className='name'>Amal</h1>
+        <h1 className='name'>Aziz</h1>
     </div>
 )
 }
